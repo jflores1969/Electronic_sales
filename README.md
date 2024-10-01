@@ -20,3 +20,5 @@ Fecha de compra: Fecha de la compra (formato: AAAA-MM-DD)
 Tipo de envío: tipo de envío elegido (por ejemplo, estándar, envío al día siguiente, exprés)
 Complementos adquiridos: lista de todos los artículos adicionales adquiridos (por ejemplo, accesorios, garantía extendida)
 Total de complementos: precio total de los complementos adquiridos (numérico)
+
+https://www.kaggle.com/datasets/cameronseamons/electronic-sales-sep2023-sep2024
